@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarcisioandrade
 - 👀 I’m interested in Front End S2
-- 🌱 I’m currently learning HTML5 and CSS3 will soon start studying Javascript. I'm anxious.
+- 🌱 I’m currently learning HTML5, CSS3 and Javascript will soon start studying React/Vue. I'm anxious.
 - 💞️ I'm looking to collaborate on a project with other beginners interested in the area.
 - 📫 How to reach me: tarcisioandrade016@gmail.com
 
