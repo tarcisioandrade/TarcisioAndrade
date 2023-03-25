@@ -11,7 +11,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center"height="30" width="40" src="https://cdn.sanity.io/images/9kjy77bb/production/b1dd14bbdbe81a00ed9c8d0ddad9549f23fdabb2-101x101.svg">
+  <img align="center"height="30" width="40" src="https://cdn.sanity.io/images/9kjy77bb/production/b1dd14bbdbe81a00ed9c8d0ddad9549f23fdabb2-101x101.svg">
+  <img align="center"height="30" width="40" src="https://cdn.sanity.io/images/9kjy77bb/production/4af2bc8428c8f50c82a103a552c5754b60a2ef68-64x64.svg">
 </div>
 
 ##
