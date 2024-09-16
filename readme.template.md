@@ -1,4 +1,4 @@
-# Tarcisio Andrade 👍
+# Tarcisio Andrade
 
 <picture>
   <source
@@ -14,7 +14,7 @@
 
 Sou Desenvolvedor Frontend com sólida experiência em ReactJS e no framework NextJS (Pages/App).
 
-Além disso, estou expandindo meus conhecimentos em Backend por meio do NodeJS. Aqui mesmo, você pode encontrar projetos que comprovam minhas habilidades.
+Além disso, estou expandindo meus conhecimentos em Backend por meio do NodeJS. Aqui mesmo, você pode encontrar projetos que comprovam meu conhecimento.
 
 Aspiro ser um desenvolvedor fullstack.
 

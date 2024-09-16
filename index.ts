@@ -61,7 +61,7 @@ function generateTableProjects(repos: IRepository[]) {
 <td><b>🎁 Projetos</b></td>
 <td><b>⭐ Estrelas</b></td>
 <td><b>🕐 Criado Em</b></td>
-<td><b>📅 Ultíma Atividade Em</b></td>
+<td><b>📅 Última Atividade Em</b></td>
 </tr>
 </thead>
 <tbody>
