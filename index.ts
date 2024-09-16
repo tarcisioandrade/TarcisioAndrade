@@ -7,12 +7,17 @@ import axios from "axios";
 
 const OWNER = "tarcisioandrade";
 
+const userAgent =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0";
+
+axios.defaults.headers.common["User-Agent"] = userAgent;
 const gh = axios.create({
   baseURL: "https://api.github.com",
-  headers: {
-    Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
-  },
 });
+
+const REPLACES_TARGET = {
+  PROJECT_INJECT: "<!-- project_inject -->",
+};
 
 const REPOSITORIES = [
   "librasoft-client",
@@ -31,10 +36,6 @@ function m(html: TemplateStringsArray, ...args: any[]) {
     collapseWhitespace: true,
   }).trim();
 }
-
-const REPLACES_TARGET = {
-  PROJECT_INJECT: "<!-- project_inject -->",
-};
 
 function generateTableProjects(repos: IRepository[]) {
   const tbody = repos.reduce(
