@@ -1,0 +1,20 @@
+{
+  "name": "tarcisioandrade",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch index.ts",
+    "build": "bun index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/html-minifier": "^4.0.5",
+    "axios": "^1.7.7",
+    "html-minifier": "^4.0.0"
+  }
+}
