@@ -49,8 +49,8 @@ function generateTableProjects(repos: IRepository[]) {
     <td><img alt="Stars" src="https://img.shields.io/github/stars/${
       cur.full_name
     }?style=flat-square&labelColor=343b41"/></td>
-    <td>${new Date(cur.created_at).toLocaleDateString()}</td>
-    <td>${new Date(cur.pushed_at).toLocaleDateString()}</td>
+    <td>${new Date(cur.created_at).toLocaleDateString("pt-BR")}</td>
+    <td>${new Date(cur.pushed_at).toLocaleDateString("pt-BR")}</td>
   </tr>`,
     ``
   );
