@@ -12,11 +12,9 @@
   <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=tarcisioandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right" />
 </picture>
 
-Sou Desenvolvedor Frontend com sólida experiência em ReactJS e no framework NextJS (Pages/App).
+Sou Desenvolvedor Frontend com ampla experiência em ReactJS e no framework NextJS (Pages/App).
 
-Além disso, estou expandindo meus conhecimentos em Backend por meio do NodeJS. Aqui mesmo, você pode encontrar projetos que comprovam meu conhecimento.
-
-Aspiro ser um desenvolvedor fullstack.
+Além disso, estou expandindo meus conhecimentos em Backend por meio do NodeJS. Aqui mesmo, você pode encontrar projetos que fiz ao longo de meus estudos.
 
 Um pouco dos meus conhecimentos:
 
