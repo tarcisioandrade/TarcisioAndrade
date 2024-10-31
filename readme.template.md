@@ -27,24 +27,31 @@ Um pouco dos meus conhecimentos:
 	<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
 	<img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-ec5990?style=flat-square&logo=react-hook-form&logoColor=fff" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Zod" src="https://img.shields.io/badge/Zod-0e1116?style=flat-square&logo=zod&logoColor=22a2c9" />
 </p>
 
 **Testing**
 
 <p>
-	<img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-fff?style=flat-square&logo=Cypress&logoColor=000" />
-  <img alt="Testing Library" src="https://img.shields.io/badge/Testing%20Library-323330?style=flat-square&logo=testing-library&logoColor=red" />
+	<img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+	<img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+	<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+	<img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-ec5990?style=flat-square&logo=react-hook-form&logoColor=fff" />
+	<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+	<img alt="Styled Components" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+	<img alt="Zod" src="https://img.shields.io/badge/Zod-0e1116?style=flat-square&logo=zod&logoColor=22a2c9" />
 </p>
 
 **Backend**
 
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-323330?style=flat-square&logo=nestjs&logoColor=ed1543" />
   <img alt="MongoDB" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
-  <img alt=".net 8"  src="https://img.shields.io/badge/.NET-8C2D91?style=flat-square&logo=.net&logoColor=white"/>
+  <img alt=".net core"  src="https://img.shields.io/badge/.NET-8C2D91?style=flat-square&logo=.net core&logoColor=white"/>
   <img alt="Testing Library" src="https://img.shields.io/badge/Prisma-323330?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
@@ -58,9 +65,10 @@ Um pouco dos meus conhecimentos:
 **Enviroment**
 
 <p>
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+ <img alt="visual studio" src="https://img.shields.io/badge/Visual%20Studio-8661c5?style=flat-square&logo=visual-studio&logoColor=ffffff" />
   <img alt="nvim" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-</p>
+</p
 
 **Principais Projetos**
 
