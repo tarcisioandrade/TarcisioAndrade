@@ -34,14 +34,10 @@ Um pouco dos meus conhecimentos:
 **Testing**
 
 <p>
-	<img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-	<img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-	<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-	<img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-ec5990?style=flat-square&logo=react-hook-form&logoColor=fff" />
-	<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-	<img alt="Styled Components" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-	<img alt="Zod" src="https://img.shields.io/badge/Zod-0e1116?style=flat-square&logo=zod&logoColor=22a2c9" />
+	<img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-fff?style=flat-square&logo=Cypress&logoColor=000" />
+  <img alt="Testing Library" src="https://img.shields.io/badge/Testing%20Library-323330?style=flat-square&logo=testing-library&logoColor=red" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-323330?style=flat-square&logo=vitest&logoColor=acd268" />
 </p>
 
 **Backend**
