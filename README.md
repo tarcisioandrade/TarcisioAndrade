@@ -47,7 +47,6 @@ Um pouco dos meus conhecimentos:
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-323330?style=flat-square&logo=nestjs&logoColor=ed1543" />
   <img alt="MongoDB" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
-  <img alt=".net core"  src="https://img.shields.io/badge/.NET-8C2D91?style=flat-square&logo=.net core&logoColor=white"/>
   <img alt="Testing Library" src="https://img.shields.io/badge/Prisma-323330?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
