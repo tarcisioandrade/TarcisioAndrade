@@ -15,10 +15,6 @@ const gh = axios.create({
   baseURL: "https://api.github.com",
 });
 
-const REPLACES_TARGET = {
-  PROJECT_INJECT: "<!-- project_inject -->",
-};
-
 const REPOSITORIES = [
   "rich-domain",
   "librasoft-client",
@@ -26,6 +22,10 @@ const REPOSITORIES = [
   "devjobs",
   "wanga",
 ];
+
+const REPLACES_TARGET = {
+  PROJECT_INJECT: "<!-- project_inject -->",
+};
 
 function m(html: TemplateStringsArray, ...args: any[]) {
   const str = html.reduce((s, h, i) => s + h + (args[i] ?? ""), "");
