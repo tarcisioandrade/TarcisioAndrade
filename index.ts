@@ -20,10 +20,10 @@ const REPLACES_TARGET = {
 };
 
 const REPOSITORIES = [
+  "rich-domain",
   "librasoft-client",
   "tfandrade",
   "devjobs",
-  "setnfy",
   "wanga",
 ];
 
