@@ -12,12 +12,6 @@
   <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=tarcisioandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right" />
 </picture>
 
-Sou Desenvolvedor Frontend com ampla experiência em ReactJS e no framework NextJS (Pages/App).
-
-Além disso, estou expandindo meus conhecimentos em Backend por meio do NodeJS. Aqui mesmo, você pode encontrar projetos que fiz ao longo de meus estudos.
-
-Um pouco dos meus conhecimentos:
-
 **Frontend**
 
 <p>
@@ -47,7 +41,6 @@ Um pouco dos meus conhecimentos:
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-323330?style=flat-square&logo=nestjs&logoColor=ed1543" />
   <img alt="MongoDB" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
-  <img alt=".net core"  src="https://img.shields.io/badge/.NET-8C2D91?style=flat-square&logo=.net core&logoColor=white"/>
   <img alt="Testing Library" src="https://img.shields.io/badge/Prisma-323330?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
