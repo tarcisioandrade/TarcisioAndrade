@@ -42,6 +42,10 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
   <img alt="Testing Library" src="https://img.shields.io/badge/Prisma-323330?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 **Mobile**
